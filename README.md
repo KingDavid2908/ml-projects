@@ -28,17 +28,17 @@ The notebook is structured sequentially with the following projects:
     * **Skills:** Model Evaluation, Model Selection, Comparative Analysis.
     * **Tech:** Python, Scikit-learn.
 
-5.  **Project 5a: MNIST Neural Network Classifier (TensorFlow/Keras)**
+5.  **Project 5ai: MNIST Neural Network Classifier (TensorFlow/Keras)**
     * **Goal:** Build, train, and evaluate a simple Dense Neural Network for handwritten digit recognition.
     * **Skills:** Deep Learning, Neural Networks, TensorFlow, Keras API, Data Preprocessing for DL.
     * **Tech:** Python, TensorFlow, Keras.
 
-6.  **Project 5b: MNIST Neural Network Classifier (PyTorch)**
+6.  **Project 5aii: MNIST Neural Network Classifier (PyTorch)**
     * **Goal:** Re-implement the MNIST classifier using PyTorch to demonstrate framework versatility.
     * **Skills:** Deep Learning, Neural Networks, PyTorch, Data Loaders, Custom Training Loops.
     * **Tech:** Python, PyTorch, Torchvision.
 
-7.  **Project 6: Basic OpenCV Demo**
+7.  **Project 5b: Basic OpenCV Demo**
     * **Goal:** Demonstrate basic image processing using OpenCV.
     * **Skills:** Computer Vision Fundamentals, Image Processing (Edge Detection).
     * **Tech:** Python, OpenCV (`cv2`), Matplotlib, NumPy.
