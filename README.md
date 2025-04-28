@@ -38,7 +38,7 @@ The notebook is structured sequentially with the following projects:
     * **Skills:** Deep Learning, Neural Networks, PyTorch, Data Loaders, Custom Training Loops.
     * **Tech:** Python, PyTorch, Torchvision.
 
-7.  **Project 7: Basic OpenCV Demo**
+7.  **Project 6: Basic OpenCV Demo**
     * **Goal:** Demonstrate basic image processing using OpenCV.
     * **Skills:** Computer Vision Fundamentals, Image Processing (Edge Detection).
     * **Tech:** Python, OpenCV (`cv2`), Matplotlib, NumPy.
